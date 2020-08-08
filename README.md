@@ -1,5 +1,7 @@
 # はじめに
 
+2020/08/08
+
 ここにV言語の学習記録をまとめていきます。  
 [公式ドキュメント](https://github.com/vlang/v/blob/master/doc/docs.md)を見ながら進めていきます
 

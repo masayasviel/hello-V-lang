@@ -1,5 +1,7 @@
 # binary search tree
 
+2020/08/08
+
 ## 構造体
 
 ```v
@@ -178,3 +180,6 @@ fn main() {
 	println(elms) // [44, 17, 56, 11, 98, 3, 70, 8]
 }
 ```
+
+## 参考
+- [issues/4612](https://github.com/vlang/v/issues/4612)
