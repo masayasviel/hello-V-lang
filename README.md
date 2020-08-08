@@ -29,6 +29,7 @@ fn main() {
 # 目次
 
 - [fizzbuzz](./dev/fizzbuzz/fizzbuzz.md)
+- [binary_search_tree](./dev/binary_search_tree/binary_search_tree.md)
 
 # 参考
 - [公式ドキュメント](https://github.com/vlang/v/blob/master/doc/docs.md)
